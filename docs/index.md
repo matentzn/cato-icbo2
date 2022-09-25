@@ -2,6 +2,6 @@
 
 [//]: # "This file is meant to be edited by the ontology maintainer."
 
-Welcome to the CATO documentation!
+Welcome to the CATO documentation! You will have a great time!
 
 You can find descriptions of the standard ontology engineering workflows [here](odk-workflows/index.md).
